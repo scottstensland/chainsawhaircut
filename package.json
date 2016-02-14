@@ -1,0 +1,14 @@
+
+{
+  "name": "corinde_web_server",
+  "version": "0.6.9",
+  "description": "A NodeJS webserver to run inside a docker container",
+  "main": "index.js",
+  "author": "scottstensland@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+      "express": "*"
+  }
+}
+
+
